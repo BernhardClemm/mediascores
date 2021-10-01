@@ -63,4 +63,4 @@ fitted_model <- mediascores(Y = MOC115[, 7:151], group = MOC115$group,
 A vignette describing the library in greater detail—the model,
 model-fitting, convergence, and extracting quantities of interest—is
 available
-**[here](http://htmlpreview.github.com/?https://github.com/SMAPPNYU/mediascores/blob/master/vignettes/mediascores-vignette.html)**.
+**[here](http://htmlpreview.github.io/?https://github.com/SMAPPNYU/mediascores/blob/master/vignettes/mediascores-vignette.html)**.
